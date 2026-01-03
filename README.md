@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Raunak
 
-<!--
-**Raunaks068619/Raunaks068619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer working in fintech, focused on building scalable backend systems and clean, usable frontends.
 
-Here are some ideas to get you started:
+## 🚀 What I Work On
+- Backend APIs with pagination, auth, and audit trails
+- Data-heavy features (reports, exports, SQL-heavy flows)
+- Frontend tools using React, Monaco Editor, D3.js
+- Internal developer tools & browser extensions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- System Design & Architecture
+- Database modeling & performance
+- DevOps fundamentals (Docker, K8s)
+- AI-assisted developer workflows
+
+## 🛠 Tech Stack
+- **Frontend:** React, TypeScript, D3.js
+- **Backend:** Node.js, Express, Knex.js
+- **DB:** PostgreSQL, MySQL
+- **DevOps:** Docker, Kubernetes
+- **Tools:** Monaco Editor, GitHub Actions
+
+## 📌 Featured Projects
+⬇️ Check pinned repositories below ⬇️
