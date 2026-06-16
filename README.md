@@ -2,6 +2,8 @@
 
 I'm a Fullstack Developer working in fintech, focused on building scalable systems with a strong emphasis on UI/UX, performance, and real-world usability. I enjoy owning features end-to-end — from design and prototyping to backend systems and infrastructure.
 
+🌐 **Portfolio:** [raunak-portfolio-omega.vercel.app](https://raunak-portfolio-omega.vercel.app)  ·  💼 **[LinkedIn](https://www.linkedin.com/in/raunak-singh-608051218/)**
+
 ---
 <img width="2400" height="1350" alt="agentlytics (2)" src="https://github.com/user-attachments/assets/4674b94e-7358-487e-9f34-fc572603ebd6" />
 
