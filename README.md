@@ -5,7 +5,6 @@ I'm a Fullstack Developer working in fintech, focused on building scalable syste
 🌐 **Portfolio:** [raunak-portfolio-omega.vercel.app](https://raunak-portfolio-omega.vercel.app)  ·  💼 **[LinkedIn](https://www.linkedin.com/in/raunak-singh-608051218/)**
 
 ---
-<img width="2400" height="1350" alt="agentlytics (2)" src="https://github.com/user-attachments/assets/4674b94e-7358-487e-9f34-fc572603ebd6" />
 
 ## 🚀 What I Work On
 - Designing and building data-heavy dashboards with clear, usable UI
